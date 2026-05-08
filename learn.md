@@ -1,6 +1,13 @@
 ---
 name: learn
-description: Use esta skill sempre que o usuário invocar o comando /learn seguido de um tópico (entre aspas ou não), ou pedir pra aprender/entender algum conceito a fundo, especialmente com frases como "me ensina X", "me explica X usando Feynman", "quero entender X de verdade", "destrincha X pra mim", "como funciona X por baixo dos panos". Aplica a Técnica de Feynman: explicação simples primeiro, analogia central, mecanismo por trás, onde a simplificação mente, pegadinhas comuns e perguntas de verificação. Vale pra qualquer domínio (CS, matemática, física, biologia, economia, filosofia, ML, sistemas distribuídos, o que vier). Acione mesmo que o tópico pareça simples, o ponto é a profundidade da explicação, não a complexidade aparente. Se o usuário passou um tópico entre aspas após /learn, esse é o tópico a ser ensinado.
+description: >
+  Use esta skill sempre que o usuario invocar o comando /learn seguido de um topico (entre aspas ou nao),
+  ou pedir pra aprender/entender algum conceito a fundo, especialmente com frases como "me ensina X",
+  "quero entender X de verdade", "destrincha X pra mim", "como funciona X por baixo dos panos".
+  Aplica a Tecnica de Feynman: explicacao simples primeiro, analogia central, mecanismo por tras,
+  onde a simplificacao mente, pegadinhas comuns e perguntas de verificacao.
+  Vale pra qualquer dominio (CS, matematica, fisica, biologia, economia, filosofia, ML, sistemas distribuidos).
+  Acione mesmo que o topico pareca simples, o ponto e a profundidade da explicacao, nao a complexidade aparente.
 ---
 
 # Learn - Técnica de Feynman
